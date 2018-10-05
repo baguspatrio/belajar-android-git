@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">baguspatrio</string>
+    <string name="ke_fragment">ke fragment</string>
+    <string name="ke_activity">ke activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
